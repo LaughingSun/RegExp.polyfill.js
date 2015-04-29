@@ -10,4 +10,4 @@ Specifically it adds support for:
 
 It does NOT add support for the sticky flag in the String Object or native strings, so you will have to do any sticky stuff on the regex side.
 
-
+See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp for details on RegExp methods and properties.
